@@ -2,7 +2,7 @@
 
 A higher abstraction level .NET library for Silicon Labs/Bluegiga BLE112 modules.
 
-This library is based on [jedinja/monomyo](https://github.com/jedinja/monomyo) and [jrowberg/bglib](https://github.com/jrowberg/bglib), so thanks go out to them for their work. The BGLib was left as it was and the higher level abstraction code from [jedinja/monomyo](https://github.com/jedinja/monomyo) was refactored to be used as a library and some BLE advertisement related features have been added. For version 2.0 BGLibExt has been almost completely rewritten, because there were a lot of things that required a clean up.
+This library is based on [jedinja/monomyo](https://github.com/jedinja/monomyo) and [jrowberg/bglib](https://github.com/jrowberg/bglib). The BGLib was left as it was and the higher level abstraction code from [jedinja/monomyo](https://github.com/jedinja/monomyo) was refactored to be used as a library and some BLE advertisement related features have been added. For version 2.0 BGLibExt has been almost completely rewritten, because there were a lot of things that required a clean up.
 
 ## Installation
 
